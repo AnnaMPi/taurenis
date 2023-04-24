@@ -1,0 +1,42 @@
+h1{
+    color: rgb(173, 181, 192); font-family: cursive;
+}
+body{
+    background-color: rgb(156, 141, 185);
+}
+h1{
+ text-align: center; margin-top: 100px;
+}
+p{
+    text-align: center
+}
+image{
+    motion-rotation:200px ;
+}
+.rindkopa{
+color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center
+}
+.slipraksts{
+    font-style: cinzel;
+}
+#izcelts{
+    font-weight: bold; 
+}
+span{
+    color: black; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+-decoration: none;}
+table,tr,td{
+    border:1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+ul{
+    list-style-type: square;
+    color: blue;
+}
+.diens{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
